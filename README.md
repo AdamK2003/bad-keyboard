@@ -1,6 +1,6 @@
 # bad-keyboard
 
- Arduino keyboard thingy inspired by [this Twitter thread](https://twitter.com/Foone/status/1207892434706825216)
+ Arduino keyboard thingy inspired by [this Twitter thread](https://twitter.com/Foone/status/1207892434706825216). Requires HoodLoader2. Flash the `328` sketch to the ATmega328 and the `16u2` sketch to the ATmega16u2.
 
 ## Hardware requirements
 
