@@ -23,5 +23,5 @@
   - clock pin (RCLK) connected to Arduino pin 6
   - output pins connected to dotmatrix column pins (lowest pin to leftmost column)
 - rotary encoder pins connected to Arduino pin 2 and 3
-- button connected between 5V and Arduino analog pin 5, connect 10K resistor between pin 5 and GND
+- button connected between 5V and Arduino analog pin 5, connect 10K resistor between pin A5 and GND
 - pins 7 through 12 and A0, A1 connected to dotmatrix row pins (pin 7 to highest row, pin A1 to lowest row)
